@@ -1,0 +1,36 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "example of chapter 3 in web development with node and express",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DannyKang/meadowlark.git"
+  },
+  "keywords": [
+    "node",
+    "example",
+    "from",
+    "book",
+    "of",
+    "web",
+    "development",
+    "with",
+    "node",
+    "&",
+    "express"
+  ],
+  "author": "danny kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DannyKang/meadowlark/issues"
+  },
+  "homepage": "https://github.com/DannyKang/meadowlark#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0"
+  }
+}
